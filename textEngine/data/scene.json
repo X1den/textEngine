@@ -1,0 +1,16 @@
+{
+    "Project": "TextEngine",
+    "Version": 1.0,
+    "Scenes": [
+        {
+            "name_scene": "Intro",
+            "id": 1,
+            "objects": ["Player", "Narrator"]
+        },
+        {
+            "name_scene": "DarkRoom",
+            "id": 2,
+            "objects": ["Torch", "Door", "Strange noise"]
+        }
+    ]
+}
